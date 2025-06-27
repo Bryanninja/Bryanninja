@@ -8,8 +8,8 @@ Me chamo Álex Bryan Nascimento, tenho 20 anos Sou de Belo Horizonte - Pedro Leo
     <a href="https://www.instagram.com/alexbryannt/">
         <img 
             alt="Instagram" 
-            title="Inscreva-se no meu canal" 
-            src=" https://custom-icon-badges.demolab.com/badge/alexbryannt-red?style=for-the-badge&logo=mention&logoColor=white"
+            title="Instagram" 
+            src= "https://custom-icon-badges.demolab.com/badge/-alexbryannt-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
     
