@@ -4,17 +4,6 @@
 
 Me chamo Álex Bryan Nascimento, tenho 20 anos Sou de Belo Horizonte - Pedro Leopoldo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Descomplica. Sou apaixonado por tecnologia e experiência do usuário compartilho meus projetos e desenvolvimentos no Instagram:
 
-<p align="left">
-    <a href="https://www.instagram.com/alexbryannt/">
-        <img 
-            alt="Instagram" 
-            title="Instagram" 
-            src= "https://custom-icon-badges.demolab.com/badge/-alexbryannt-red?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
-    
-</p>
-
  <a href="https://www.instagram.com/alexbryannt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexbryannt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
