@@ -104,22 +104,8 @@ Me chamo Álex Bryan Nascimento, tenho 20 anos Sou de Belo Horizonte - Pedro Leo
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Bryanninja&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryanninja&theme=radical&show_icons=true)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanninja&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bryanninja&theme=radical&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://www.linkedin.com/in/alexbryannt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
-
-</p>
