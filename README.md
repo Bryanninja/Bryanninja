@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Álex Bryan Nascimento, tenho 20 anos Sou de Belo Horizonte - Pedro Leopoldo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Descomplica. Sou apaixonado por tecnologia e experiência do usuário compartilho meus projetos e desenvolvimentos no Instagram: "[@alexbryannt](https://www.instagram.com/alexbryannt/)".
+Me chamo Álex Bryan Nascimento, tenho 20 anos Sou de Belo Horizonte - Pedro Leopoldo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Descomplica. Sou apaixonado por tecnologia e experiência do usuário compartilho meus projetos e desenvolvimentos no Instagram:
 
 <p align="left">
     <a href="https://www.instagram.com/alexbryannt/">
@@ -14,6 +14,11 @@ Me chamo Álex Bryan Nascimento, tenho 20 anos Sou de Belo Horizonte - Pedro Leo
     </a>
     
 </p>
+
+  <a href="https://www.instagram.com/alexbryannt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/alexbryannt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
 
 ---
 
@@ -104,8 +109,6 @@ Me chamo Álex Bryan Nascimento, tenho 20 anos Sou de Belo Horizonte - Pedro Leo
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryanninja&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryanninja&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bryanninja&theme=radical&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-  <a href="https://www.linkedin.com/in/alexbryannt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bryanninja&theme=tokyonight&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
