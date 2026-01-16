@@ -31,11 +31,11 @@
   <br>
   <br>
 
-  <h3>📊 Minhas Estatísticas</h3>
+<h3>📊 Minhas Estatísticas</h3>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Bryanninja&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" height="180" alt="stats" />
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bryanninja&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&locale=pt-br" height="180" alt="langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanninja&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&locale=pt-br" height="180" alt="langs" />
   </p>
 
   <br>
