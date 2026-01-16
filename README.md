@@ -31,7 +31,7 @@
   <br>
   <br>
 
-### 📊 Estatísticas no GitHub
+  ### 📊 Estatísticas no GitHub
 
   <div align="center">
     <a href="https://github.com/Bryanninja">
@@ -39,6 +39,7 @@
       <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bryanninja&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
     </a>
   </div>
+  
   <br>
 
   <h3>📫 Contatos</h3>
