@@ -41,7 +41,7 @@
   
   <br>
 
-  <h3>📫 Contatos</h3>
+  <h3>📫 Contatos e Portfólio</h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/alexbryannt/" target="_blank">
@@ -49,6 +49,9 @@
     </a> 
     <a href="mailto:bryanncode@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.behance.net/bryan_fnascime" target="_blank">
+      <img src="https://img.shields.io/badge/-Behance-%231769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
     </a>
     <a href="https://www.instagram.com/alexbryannt/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
