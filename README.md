@@ -1,61 +1,67 @@
 <div align="center">
-  
-  # Olá, eu sou o Álex Bryan! 👋
-  
-  <h3>Desenvolvedor Front-end & UI Designer</h3>
-  
-  <p>
-    Sou um apaixonado por transformar <b>Design</b> em código funcional. 
-    Moro em Pedro Leopoldo/MG e estou em transição de carreira após 3 anos como Designer Internacional.
-    <br/>
-    Meu foco é criar interfaces bonitas, performáticas e com excelente experiência de usuário.
-  </p>
-
-  <br>
-
-  <h3>🛠️ Tecnologias e Ferramentas</h3>
-  
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  </p>
-
-  <br>
-  <br>
-
-  ### 📊 Estatísticas no GitHub
-
-  <div align="center">
-    <a href="https://github.com/Bryanninja">
-      <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bryanninja&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
-    </a>
-  </div>
-  
-  <br>
-
-  <h3>📫 Contatos e Portfólio</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=80&lines=Ol%C3%A1%2C+eu+sou+o+%C3%81lex+Bryan!+%F0%9F%91%8B;Desenvolvedor+Front-end;UI%2FUX+Designer;Criador+de+Experi%C3%AAncias+Digitais" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/alexbryannt/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a> 
-    <a href="mailto:bryanncode@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.behance.net/bryan_fnascime" target="_blank">
-      <img src="https://img.shields.io/badge/-Behance-%231769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
-    </a>
-    <a href="https://www.instagram.com/alexbryannt/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
+    <b>Transformando Design de alto nível em Engenharia de Software.</b>
   </p>
+</div>
 
+---
+
+### 👨‍💻 Sobre mim
+
+Sou um Desenvolvedor Front-end & UI Designer morando em Pedro Leopoldo/MG. Após 3 anos de sólida experiência internacional como Designer, fiz a transição para a engenharia de software com uma missão clara: **reduzir a distância entre o que é desenhado no Figma e o que é entregue no navegador**.
+
+- 🔭 Atualmente trabalhando no meu portfólio e agência: **[Albry Studio](https://albrystudio.com)**
+- 🌱 Focado no ecossistema moderno: **React, Next.js, TypeScript e Tailwind CSS**
+- 🎨 Especialista em **Core Web Vitals**, Micro-Interações e UX/UI
+- 💬 Me pergunte sobre: **Design de Interfaces, Front-end ou transição de carreira!**
+- 📫 Como me encontrar: **[bryanncode@gmail.com](mailto:bryanncode@gmail.com)**
+
+---
+
+### 🚀 Hard Skills
+
+<div align="center">
+  <h4>Front-end & Design</h4>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <br>
+  <h4>Back-end & Ferramentas</h4>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryanninja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanninja&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+---
+
+### 📫 Vamos nos conectar!
+
+<div align="center">
+  <a href="https://albrystudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Meu_Portfólio-1e293b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexbryannt/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> 
+  <a href="https://www.behance.net/bryan_fnascime" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://www.instagram.com/alexbryannt/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
